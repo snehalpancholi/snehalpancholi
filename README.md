@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack developer with expertise in multiple programming languages, frameworks, and technologies. My primary expertise is in HTML, CSS, Javascript, Jquery, PHP, Wordpress, Codeigniter, Laravel, Python, Asp.net, MySQL, Sql Server, MongoDB, Node.js, React.js, React Native and Ionic.
+I am a full stack developer, with 10+ years of experience, with expertise in multiple programming languages, frameworks, and technologies. My primary expertise is in HTML, CSS, Javascript, Jquery, PHP, Wordpress, Codeigniter, Laravel, Python, Asp.net, MySQL, Sql Server, MongoDB, Node.js, React.js, React Native and Ionic.
 
 I am passionate about web development and excel at designing, coding, and implementing websites. I have an in-depth understanding of the web development process, from creating wireframes and mockups to deploying a live site. I also have experience working with databases and different content management systems such as WordPress.
 
